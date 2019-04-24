@@ -1,2 +1,2 @@
 # Doorlock
-Arduino project that control servo motor by remote control passcode
+Arduino project that control servo motor by passcode on remote control 
